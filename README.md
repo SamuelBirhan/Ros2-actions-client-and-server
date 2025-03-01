@@ -1,3 +1,5 @@
+This implementation is inspired by the ROS2 Actions tutorial from YouTube:  
+[ROS2 Actions Tutorial] https://www.youtube.com/watch?v=X7YSnDbKMWo
 # ROS2 Actions Example
 This repository contains a ROS2 Actions implementation using Python. It includes:
 - `my_robot_interfaces` package → Defines the action interface.
